@@ -22,9 +22,7 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.1059664, -39.8737619]},"properties": {"Año": "2000", "Lugar": "Puerto Fuy"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.5386809, -40.8138165]},"properties": {"Año": "2001", "Lugar": "Rupanco"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.6897222, -41.1334722]},"properties": {"Año": "2002", "Lugar": "Bariloche"  } },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [308.6803497, -30.1079519]},"properties": {"Año": "2015", "Lugar": "Goyanás do Guaíba"  } },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Año": "", "Lugar": ""  } },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Año": "", "Lugar": ""  } }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [308.6803497, -30.1079519]},"properties": {"Año": "2015", "Lugar": "Goyanás do Guaíba"  } }
 
        ]
     }
