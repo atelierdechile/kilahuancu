@@ -1,0 +1,27 @@
+{ "type": "FeatureCollection",
+"features": [
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [33.6826672, -117.8349246]},"properties": {"Año": "1980", "Lugar": "Jamboree Brasil"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.2180942, -72.2186285]},"properties": {"Año": "1981", "Lugar": "Pichilafquen, Villarrica"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-41.0936188, -72.2482225]},"properties": {"Año": "1984", "Lugar": "Lago Todos los Santos y Río Negro (Hornopirén)"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.6415998, -72.3370089]},"properties": {"Año": "1985", "Lugar": "Jamboree Panguipulli"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.2820124, -72.2307798]},"properties": {"Año": "1986", "Lugar": "Villarrica"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-40.6200812, -72.4726062]},"properties": {"Año": "1987", "Lugar": "Mantilhue"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.2820124, -72.2307798]},"properties": {"Año": "1988", "Lugar": "Jamboree Austral Villarrica"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-42.1187202, -73.8110794999999]},"properties": {"Año": "1989", "Lugar": "Puntra"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-40.5585935, -73.7064492]},"properties": {"Año": "1990", "Lugar": "Contaco"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-40.653531, -72.262472]},"properties": {"Año": "1991", "Lugar": "Anticura"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-38.6910478, -71.6735439]},"properties": {"Año": "1992", "Lugar": "Conguillïo"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-42.6191667, -73.6491667]},"properties": {"Año": "1993", "Lugar": "Isla Lemuy"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.8107063, -72.9546051]},"properties": {"Año": "1994", "Lugar": "Antilhue"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-38.8578866, -73.3060197]},"properties": {"Año": "1995", "Lugar": "Lago Budi - Jamboree Parral"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-42.8732593, -73.5113843]},"properties": {"Año": "1996", "Lugar": "Detico"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-32.239444, -71.515]},"properties": {"Año": "1997", "Lugar": "Los Molles"  } },
+
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-40.8138165, -72.4613191]},"properties": {"Año": "1999", "Lugar": "Rupanco"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-39.8737619, -71.8940336]},"properties": {"Año": "2000", "Lugar": "Puerto Fuy"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-40.8138165, -72.4613191]},"properties": {"Año": "2001", "Lugar": "Rupanco"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-41.1334722, -71.3102778]},"properties": {"Año": "2002", "Lugar": "Bariloche"  } },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-30.1079519, -51.3196503]},"properties": {"Año": "2015", "Lugar": "Goyanás do Guaíba"  } }
+
+       ]
+    }
