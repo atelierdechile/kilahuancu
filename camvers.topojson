@@ -17,7 +17,7 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.6939803, -38.8578866]},"properties": {"Año": "1995", "Lugar": "Lago Budi - Jamboree Parral"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.4886157, -42.8732593]},"properties": {"Año": "1996", "Lugar": "Detico"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.485, -32.239444]},"properties": {"Año": "1997", "Lugar": "Los Molles"  } },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Año": "1998", "Lugar": "Calfaque"  } },
+
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.5386809, -40.8138165]},"properties": {"Año": "1999", "Lugar": "Rupanco"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.1059664, -39.8737619]},"properties": {"Año": "2000", "Lugar": "Puerto Fuy"  } },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.5386809, -40.8138165]},"properties": {"Año": "2001", "Lugar": "Rupanco"  } },
